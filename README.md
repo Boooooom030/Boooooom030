@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi, I'm Boooooom030
+
+You can also call me Chrans or Neonum_Y
+
+- 🏛️ undergraduate from [BIT](https://bit.edu.cn/), majoring in Cyberspace Security
+- ⚡ [my website](https://neonum-y.cn)
+- 😄 LOL, Ranibow six, CS, [my steam](https://steamcommunity.com/profiles/76561198363640642/)
+- I write c, python. Learning RUST
+
 
 <!--
 **Boooooom030/Boooooom030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
